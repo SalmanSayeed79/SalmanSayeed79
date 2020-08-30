@@ -2,15 +2,19 @@
 <img src='./Page2.png'/>
 
 ### Hey, I'm Salman Sayeed
-- 🔭 I’m currently working on A multi-platform app
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on app development
+- I'm currently an undergrad student at BUET majoring in CSE
+- I've been doing web development for almost 8 months now and trying to work my way through the industry
+- I love developing web and mobile apps whenever I get the chance
+- I’m currently working on CSE-19 FileBin, a multi-platform app for data storage
+- I’m currently learning React Native
+
 
 <br />
 <br />
 
 <h2>Languages and tools:</h2>
 <br />
+<span></span>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
