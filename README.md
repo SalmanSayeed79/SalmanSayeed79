@@ -1,7 +1,7 @@
-### Hey, I'm Salman Sayeed
+
 <img src='./Page2.png'/>
 
-
+### Hey, I'm Salman Sayeed
 - 🔭 I’m currently working on A multi-platform app
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on app development
