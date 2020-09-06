@@ -1,5 +1,5 @@
 
-<img src='./Page2.png'/>
+<img src='https://github.com/SalmanSayeed79/SalmanSayeed79/blob/master/Page2.png'/>
 
 ### Hey, I'm Salman Sayeed
 - I'm currently an undergrad student at BUET majoring in CSE
