@@ -36,3 +36,38 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SalmanSayeed79)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+## Competition Performances 🏆
+### Hackathon Performances 
+
+| Title               | Performance      | Organizer        |  Timeline | Project          |
+| -----------         | -----------      |  -----------     |-----------|------------------|
+| SUST Technovent 2023| 1st Runners Up   | Orbitax          | 2023      | Flow (A factory management and automation system) |
+| Therap Javafest     | Champion         | Therap(BD) Ltd   | 2022      | Cargon (A supply chain solution for pharmaceutical companies)|
+| Codefest            | 2nd Runners Up   | AIESEC Bangladesh   | 2021   | |
+| HackNSU Season 3     | 2nd Runners Up  | North South University   | 2021  | |
+| NASA Space Apps Challenge     | Regional Champion         | NASA   | 2021      |Solaris (An application based on NASA's Solar API )|
+| MIST Robo Cup     | 1st Runners Up         | MIST Robotics Society   | 2022      |Codeforces Tracked (An application to track user and friends on codeforces) |
+
+### Robotics Compeition Performances 
+
+| Title               | Performance      | Organizer        |  Timeline | 
+| -----------         | -----------      |  -----------     |-----------|
+| Mechcellence 1.0    | Champion         | AUST Mechanical Society          | 2023      | 
+| Robo Carnival       | Champion         | BUET Robotics Society    | 2023      | 
+
+
+### Business Compeition Performances 
+
+| Title               | Performance      | Organizer        |  Timeline | 
+| -----------         | -----------      |  -----------     |-----------|
+| Hult Prize Milan Summit    | Semi Finalist         | Hult Prize Foundation          | 2023      | 
+| Hult Prize at ARMY IBA    | Champion         | Hult Prize Foundation          | 2023      | 
+| NEST Season 1    | 5th         | NEST          | 2021      | 
+| Banglalink Ennovators 5.0    | Top 100 Ennovators         | Banglalink          | 2021      | 
+| Hult Prize Chittagong Summit    | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
+| Hult Prize at BUET    | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
+
+
+
+
