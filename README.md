@@ -28,12 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmansayeed79&" alt="salmansayeed79" /></p>
 
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SalmanSayeed79)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Competition Performances 🏆
 ### Hackathon Performances 
 
