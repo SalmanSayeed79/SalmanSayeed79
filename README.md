@@ -34,7 +34,7 @@
 | Title               | Performance      | Organizer        |  Timeline | Project          |
 | -----------         | -----------      |  -----------     |-----------|------------------|
 | SUST Technovent 2023| 1st Runners Up   | Orbitax          | 2023      | Flow (A factory management and automation system) |
-| Therap Javafest     | Champion         | Therap(BD) Ltd   | 2022      | Cargon (A supply chain solution for pharmaceutical companies)|
+| Therap Javafest 2022    | Champion         | Therap(BD) Ltd   | 2022      | Cargon (A supply chain solution for pharmaceutical companies)|
 | Codefest            | 2nd Runners Up   | AIESEC Bangladesh   | 2021   | |
 | HackNSU Season 3     | 2nd Runners Up  | North South University   | 2021  | |
 | NASA Space Apps Challenge     | Regional Champion         | NASA   | 2021      |Solaris (An application based on NASA's Solar API )|
@@ -52,6 +52,7 @@
 
 | Title               | Performance      | Organizer        |  Timeline | 
 | -----------         | -----------      |  -----------     |-----------|
+| Battle of Minds 2023    | 1st Runners Up         | British American Tobacco          | 2023      | 
 | Hult Prize Milan Summit    | Semi Finalist         | Hult Prize Foundation          | 2023      | 
 | Hult Prize at ARMY IBA    | Champion         | Hult Prize Foundation          | 2023      | 
 | NEST Season 1    | 5th         | NEST          | 2021      | 
