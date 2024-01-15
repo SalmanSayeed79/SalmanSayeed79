@@ -34,6 +34,7 @@
 | Title               | Performance      | Organizer        |  Timeline | Project          |
 | -----------         | -----------      |  -----------     |-----------|------------------|
 | SUST Technovent 2023| 1st Runners Up   | Orbitax          | 2023      | Flow (A factory management and automation system) |
+| ITVerse Techtales 2023| 2nd Runners Up   | IITSEC, Dhaka University          | 2023      | Buldr (An all in one AI based application for Engineers) |
 | Therap Javafest 2022    | Champion         | Therap(BD) Ltd   | 2022      | Cargon (A supply chain solution for pharmaceutical companies)|
 | Codefest            | 2nd Runners Up   | AIESEC Bangladesh   | 2021   | |
 | HackNSU Season 3     | 2nd Runners Up  | North South University   | 2021  | |
@@ -52,7 +53,9 @@
 
 | Title               | Performance      | Organizer        |  Timeline | 
 | -----------         | -----------      |  -----------     |-----------|
+| Ennovators 7.0    | Champion         | Banglalink          | 2023      | 
 | Battle of Minds 2023    | 1st Runners Up         | British American Tobacco          | 2023      | 
+| Over the Wall S2    | Top 6         | Marico Bangladesh          | 2023      | 
 | Hult Prize Milan Summit    | Semi Finalist         | Hult Prize Foundation          | 2023      | 
 | Hult Prize at ARMY IBA    | Champion         | Hult Prize Foundation          | 2023      | 
 | NEST Season 1    | 5th         | NEST          | 2021      | 
