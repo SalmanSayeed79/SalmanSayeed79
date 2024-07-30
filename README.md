@@ -33,6 +33,9 @@
 
 | Title               | Performance      | Organizer        |  Timeline | Project          |
 | -----------         | -----------      |  -----------     |-----------|------------------|
+| Gen Dev Hackathon 2024| Champion       | ACME AI          | 2024      | OmniCycleTracker (LLM Based Menstruation Cycle Tracker Application) |
+| Hello Yobo AI Hackathon 2024 | Champion   | Megamind Tech(CA)          | 2024      | Sal-Academy (Gen AI based education platform for children and high-schoolers) |
+| SUST CSE FEST Hackathon 2024| Champion   | BrainStation23          | 2024      | Bebshai (Gen AI based Business Management Platform for MSMEs) |
 | SUST Technovent 2023| 1st Runners Up   | Orbitax          | 2023      | Flow (A factory management and automation system) |
 | ITVerse Techtales 2023| 2nd Runners Up   | IITSEC, Dhaka University          | 2023      | Buldr (An all in one AI based application for Engineers) |
 | Therap Javafest 2022    | Champion         | Therap(BD) Ltd   | 2022      | Cargon (A supply chain solution for pharmaceutical companies)|
