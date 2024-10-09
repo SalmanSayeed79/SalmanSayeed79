@@ -33,6 +33,7 @@
 
 | Title               | Performance      | Organizer        |  Timeline | Project          |
 | -----------         | -----------      |  -----------     |-----------|------------------|
+| Bangladesh Blockchain Olympiad 2024 (AI Segment) | Champion       | BCOLBD          | 2024      | Studygazelle (en AI based education for educators and students) |
 | Gen Dev Hackathon 2024| Champion       | ACME AI          | 2024      | OmniCycleTracker (LLM Based Menstruation Cycle Tracker Application) |
 | Hello Yobo AI Hackathon 2024 | Champion   | Megamind Tech(CA)          | 2024      | Sal-Academy (Gen AI based education platform for children and high-schoolers) |
 | SUST CSE FEST Hackathon 2024| Champion   | BrainStation23          | 2024      | Bebshai (Gen AI based Business Management Platform for MSMEs) |
