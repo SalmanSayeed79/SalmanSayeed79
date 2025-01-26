@@ -2,11 +2,14 @@
 <img src='https://github.com/SalmanSayeed79/SalmanSayeed79/blob/master/Page2.png'/>
 
 ### Hey, I'm Salman Sayeed
-- I'm currently an undergrad student at BUET majoring in CSE
-- I've been doing web development for almost 8 months now and trying to work my way through the industry
-- I love developing web and mobile apps whenever I get the chance
-- I’m currently working on CSE-19 FileBin, a multi-platform app for data storage
-- I’m currently learning React Native
+- 🤖 LLM and GenAI Researcher
+- 🧑🏻‍🏫 I'm currently an undergrad student at BUET majoring in CSE 
+- 🧑🏻‍💻 4 years of software industry experience
+- 📂 Currently Engineering Manager at Megamind Tech, Canada
+- 🏅 Honourable Mention Award in International Data Science Olympiad (IDSOL) 2024
+- 🏆 22 National and International competitions in past 4 years
+- 🗞️ Dean's list in all levels of undergrad with a 3.9+ GPA
+- 🌏 Travelled 10 countries around the world
 
 
 <br />
@@ -33,7 +36,8 @@
 
 | Title               | Performance      | Organizer        |  Timeline | Project          |
 | -----------         | -----------      |  -----------     |-----------|------------------|
-| Bangladesh Blockchain Olympiad 2024 (AI Segment) | Champion       | BCOLBD          | 2024      | Studygazelle (en AI based education for educators and students) |
+| International Data Science Olympiad (IDSOL) 2024 | Honourable Mention       | IDSOL          | 2024      | Studygazelle (An AI based education for educators and students) |
+| Bangladesh Blockchain Olympiad 2024 (AI Segment) | Champion       | BCOLBD          | 2024      | Studygazelle (An AI based education for educators and students) |
 | Gen Dev Hackathon 2024| Champion       | ACME AI          | 2024      | OmniCycleTracker (LLM Based Menstruation Cycle Tracker Application) |
 | Hello Yobo AI Hackathon 2024 | Champion   | Megamind Tech(CA)          | 2024      | Sal-Academy (Gen AI based education platform for children and high-schoolers) |
 | SUST CSE FEST Hackathon 2024| Champion   | BrainStation23          | 2024      | Bebshai (Gen AI based Business Management Platform for MSMEs) |
@@ -65,7 +69,8 @@
 | NEST Season 1    | 5th         | NEST          | 2021      | 
 | Banglalink Ennovators 5.0    | Top 100 Ennovators         | Banglalink          | 2021      | 
 | Hult Prize Chittagong Summit    | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
-| Hult Prize at BUET    | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
+| Hult Prize at BUET 2021   | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
+| Hult Prize at BUET 2024   | 2nd Runners Up         | Hult Prize Foundation          | 2024      | 
 
 
 
