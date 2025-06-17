@@ -1,5 +1,5 @@
 
-<img src='https://yjdpfmzkoujgvdjcdrrg.supabase.co/storage/v1/object/public/dump_images//Untitled%20design.jpg'/>
+<img src='https://i.postimg.cc/W1Rvx2qh/Screenshot-2025-06-17-at-3-05-21-PM.png'/>
 
 ### Hey, I'm Salman Sayeed
 - 🤖 LLM and GenAI Researcher
