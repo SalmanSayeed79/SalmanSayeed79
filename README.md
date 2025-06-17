@@ -1,5 +1,5 @@
 
-<img src='https://i.postimg.cc/W1Rvx2qh/Screenshot-2025-06-17-at-3-05-21-PM.png'/>
+<a href="https://salmansayeed.com" target="_blank"><img src='https://i.postimg.cc/W1Rvx2qh/Screenshot-2025-06-17-at-3-05-21-PM.png'/></a>
 
 ### Hey, I'm Salman Sayeed
 - 🤖 LLM and GenAI Researcher
