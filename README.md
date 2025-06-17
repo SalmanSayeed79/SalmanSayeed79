@@ -9,7 +9,7 @@
 - 🏅 Honourable Mention Award in International Data Science Olympiad (IDSOL) 2024
 - 🏆 22 National and International competitions in past 4 years
 - 🗞️ Dean's list in all levels of undergrad with a 3.9+ GPA
-- 🌏 Travelled 10 countries around the world
+- 🌏 Travelled 11 countries around the world
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +36,7 @@
 
 | Title               | Performance      | Organizer        |  Timeline | Project          |
 | -----------         | -----------      |  -----------     |-----------|------------------|
-| International Data Science Olympiad (IDSOL) 2024 | Honourable Mention       | IDSOL          | 2024      | Studygazelle (An AI based education for educators and students) |
+| International Data Science Olympiad (IDSOL) 2024 🌏 | Honourable Mention       | IDSOL          | 2024      | Studygazelle (An AI based education for educators and students) |
 | Bangladesh Blockchain Olympiad 2024 (AI Segment) | Champion       | BCOLBD          | 2024      | Studygazelle (An AI based education for educators and students) |
 | Gen Dev Hackathon 2024| Champion       | ACME AI          | 2024      | OmniCycleTracker (LLM Based Menstruation Cycle Tracker Application) |
 | Hello Yobo AI Hackathon 2024 | Champion   | Megamind Tech(CA)          | 2024      | Sal-Academy (Gen AI based education platform for children and high-schoolers) |
@@ -46,7 +46,7 @@
 | Therap Javafest 2022    | Champion         | Therap(BD) Ltd   | 2022      | Cargon (A supply chain solution for pharmaceutical companies)|
 | Codefest            | 2nd Runners Up   | AIESEC Bangladesh   | 2021   | |
 | HackNSU Season 3     | 2nd Runners Up  | North South University   | 2021  | |
-| NASA Space Apps Challenge     | Regional Champion         | NASA   | 2021      |Solaris (An application based on NASA's Solar API )|
+| NASA Space Apps Challenge 🌏    | Regional Champion         | NASA   | 2021      |Solaris (An application based on NASA's Solar API )|
 | MIST Robo Cup     | 1st Runners Up         | MIST Robotics Society   | 2022      |Codeforces Tracked (An application to track user and friends on codeforces) |
 
 ### Robotics Compeition Performances 
@@ -64,11 +64,11 @@
 | Ennovators 7.0    | Champion         | Banglalink          | 2023      | 
 | Battle of Minds 2023    | 1st Runners Up         | British American Tobacco          | 2023      | 
 | Over the Wall S2    | Top 6         | Marico Bangladesh          | 2023      | 
-| Hult Prize Milan Summit    | Semi Finalist         | Hult Prize Foundation          | 2023      | 
+| Hult Prize Milan Summit 🌏   | Semi Finalist         | Hult Prize Foundation          | 2023      | 
 | Hult Prize at ARMY IBA    | Champion         | Hult Prize Foundation          | 2023      | 
 | NEST Season 1    | 5th         | NEST          | 2021      | 
 | Banglalink Ennovators 5.0    | Top 100 Ennovators         | Banglalink          | 2021      | 
-| Hult Prize Chittagong Summit    | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
+| Hult Prize Chittagong Summit 🌏   | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
 | Hult Prize at BUET 2021   | 1st Runners Up         | Hult Prize Foundation          | 2021      | 
 | Hult Prize at BUET 2024   | 2nd Runners Up         | Hult Prize Foundation          | 2024      | 
 
