@@ -3,7 +3,7 @@
 
 ### Hey, I'm Salman Sayeed
 - 🤖 LLM and GenAI Researcher
-- 🧑🏻‍🏫 I'm currently an undergrad student at BUET majoring in CSE 
+- 🧑🏻‍🏫 I'm currently an LLM Researcher at BUET 
 - 🧑🏻‍💻 4 years of software industry experience
 - 📂 Currently Engineering Manager at Megamind Tech, Canada
 - 🏅 Honourable Mention Award in International Data Science Olympiad (IDSOL) 2024
